@@ -1,0 +1,1 @@
+Creating Google's homepage with HTML and CSS. No functionality, just visual layout.
